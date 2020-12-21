@@ -7,10 +7,10 @@ import schedule
 
 def job_crawler():
 
-    page_end= input('please enter number of pages:')
+    page_end= int(input('please enter number of pages:'))
     file = open('data_analyst.csv','a')
     writer = csv.writer(file)
-    for pagenumber in range(1, page_number):
+    for pagenumber in range(1, page_end):
         url = 'https://www.reed.co.uk/jobs/data-analyst-jobs-in-england?pageno=?' + str(pagenumber)
         headers = {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'
