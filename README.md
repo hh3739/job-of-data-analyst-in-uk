@@ -8,7 +8,7 @@ Second steps of data cleaning is done by Pthon is to trim off blank spaces, punc
 </p>  
 </div>
 
-<div><p>Finally conduct an EDA analysis of required skills and responsiblities based on different salary bases and locations.
+<div><p>An EDA analysis of required skills and responsiblities based on different salary bases and locations.
 In terms of my own profile, find appropriate job role according to the analysis result. 
 </p></div>
 
