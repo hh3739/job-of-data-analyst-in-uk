@@ -15,3 +15,5 @@ Key skills are extracted from job descriptions are SQL and business skill,report
 Technic I used for text analysis can even be extended into advance level, such as combine tfidf with k-mean++ to infer out job responsibility and job requirements separately 
 </p></div>
 
+**Author**
+This project is done by John Huang For anyone who want to discuss this project with me, please send me a email to huang3739@gmail.com
