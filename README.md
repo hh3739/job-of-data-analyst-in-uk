@@ -16,4 +16,4 @@ Technic I used for text analysis can even be extended into advance level, such a
 </p></div>
 
 **Author**
-This project is done by John Huang For anyone who want to discuss this project with me, please send me a email to huang3739@gmail.com
+This project is done by John Huang, for anyone who want to discuss this project with me, please send me an email to huang3739@gmail.com
