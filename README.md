@@ -9,7 +9,7 @@
 </p>  
 </div>
 
-<div><p>The analysis is built on five dimensions which are salary, job type , location ,job posted date and job descriptions. The range of salary are widly spread between £100 to £600 per day, the level of salaries is depended on job type and location, London Cambridge Essex are the three top paid places, and contractors seems get the higest daily paid. On the other hand, perment jobs are posted more than contract and temporary ones,compare to December, more perment jobs vacancies available in November.
+<div><p>The analysis is built on five dimensions which are salary, job type , location ,job posted date and job descriptions. The range of salary are widly spread between £100 to £600 per day, the level of salaries is depended on job type and location, London Cambridge Essex are the three top paid places, and contractors seems get the highest daily paid. On the other hand, perment jobs are posted more than contract and temporary ones,compare to December, more perment jobs vacancies available in November.
 
 Key skills are extracted from job descriptions are SQL and business skill,reporting, Excel and power BI. And I am shocking that python is not one of the key skills. However, the crucial requirements of each data analyst job are found very different in terms of different industries.
 
