@@ -3,8 +3,9 @@
 
 <div>
   
-<p>This project provides a way of using requests and lxml to automaticlly crawl data of analyst jobs from the reed.c.uk. Its include job title, salary, location, job type, and job descrpition. 
-Second steps of data cleaning is done by Pthon is to trim off blank spaces, puncation marks, and cut sentences into words and get rid of stop words 
+<p>This project provides a walk through of text analysis of Data analyst jobs posted in UK job market in 2020 Dec and Nov. It emphasises on text data classfications, and discovering of the most need skills and reponsibilities of each job.
+
+
 </p>  
 </div>
 
